@@ -1,2 +1,2 @@
 Init Readme
-Updated from the GitHub
+For Merge Conflict Testing
