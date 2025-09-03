@@ -1,2 +1,2 @@
 Init Readme
-For Merge Conflict Testing
+For testing the merge conflict feature
